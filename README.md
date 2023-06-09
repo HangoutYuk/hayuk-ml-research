@@ -12,18 +12,25 @@ This repository contains some research behind HangoutYuk! Machine Learning Model
 
 ## Dataset Sources
 
-1. sumber 1
-2. sumber 2
+1. [Restaurant Reviews](https://www.kaggle.com/datasets/vigneshwarsofficial/reviews)
+2. [Cafe Reviews](https://www.kaggle.com/datasets/sripaadsrinivasan/yelp-coffee-reviews)
+3. Google Maps API
 
 ## Dataset Visualization
 
 ![Dataset Visualization](./images/sarapan.png)
-**Note : Temporary Image, don't worry**
+
+Note : Temporary Image, don't worry
 
 ## Our Problems
 
 1. problem 1
 2. problem 2
+
+## Our Next Features
+
+1. next feature 1
+2. next feature 2
 
 ## Our Machine Learning Team Members
 
