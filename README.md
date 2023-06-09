@@ -18,9 +18,7 @@ This repository contains some research behind HangoutYuk! Machine Learning Model
 
 ## Dataset Visualization
 
-![Dataset Visualization](./images/sarapan.png)
-
-Note : Temporary Image, don't worry
+![Dataset Visualization](./images/wordcloud.png)
 
 ## Our Problems
 
