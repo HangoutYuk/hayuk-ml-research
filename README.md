@@ -1,6 +1,6 @@
 # HangoutYuk Machine Learning Research
 
-This repository contains some research behind HangoutYuk! Machine Learning Model.
+HangoutYuk! (or HaYuk!) is the solution to easily planning hangout events with your friends and family. This application recommends the best hangout places based on the closest distance to the user and predictions from a machine learning model. The machine learning model used is sentiment analysis to predict the negative or positive sentiment of a place to be considered as a hangout spot. Sentiments are based on comments about the specific hangout place. These comments are obtained from the reviews of the place available on Google Maps.
 
 ## Our ML Model
 
