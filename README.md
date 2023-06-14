@@ -20,15 +20,18 @@ HangoutYuk! (or HaYuk!) is the solution to easily planning hangout events with y
 
 ![Dataset Visualization](./images/wordcloud.png)
 
-## Our Problems
+## ML Documentation
 
-1. problem 1
-2. problem 2
-
-## Our Next Features
-
-1. next feature 1
-2. next feature 2
+1. Looking for Sentiment Analysis Dataset on Kaggle
+2. Collecting data automatically from Google Maps API
+3. Creating endpoint Machine Learning for Cloud Computing
+4. Divide the data in ratio of 50 (train), 30 (validation), and 20 (test)
+5. Preprocessing text data and tuning hyperparameter
+6. Building model using TensorFlow for Sentiment Analysis
+7. Conduct Machine Learning model training with 735 train steps
+8. Evaluate the machine learning model
+9. Testing real data using random comments on Google Maps
+10. Save model into Saved Model Format
 
 ## Our Machine Learning Team Members
 
